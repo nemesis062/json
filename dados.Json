@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "titulo":"A lena do revolver dourado",
+        "categoria":"Filme",
+        "plataforma":"Youtube",
+        "nota":6.8,
+        "statu":"assistido",
+        "capa":"hhttps://m.media-amazon.com/images/M/MV5BNDJlMTg2YTMtODE0ZC00YTJjLWI3YzktMWMzOGZhMTJmZThlXkEyXkFqcGc@._V1_.jpg"
+    },
+
+
+  
+    {
+        "id":2,
+        "titulo":"101 dalmatas",
+        "categoria":"Filme",
+        "plataforma":"Youtube",
+        "nota":10.0,
+        "statu":"assistido",
+        "capa":"https://www.simonandschuster.ca/books/Disney-Classic-Graphic-Novel-101-Dalmatians/The-Disney-Comics-Group/9781545815564"
+    },
+
+
+
+   
+    {
+        "id":3,
+        "titulo":"bloons td6",
+        "categoria":"jogos",
+        "plataforma":"steam, epic games e play store",
+        "nota":9.0,
+        "statu":"jogado",
+        "capa":"https://www.xbox.com/pt-BR/games/store/bloons-td-6/9nddvjv54msc"
+    },
+
+
+ 
+    {
+        "id":4,
+        "titulo":"Doom blade",
+        "categoria":"jogos",
+        "plataforma":"Epic games",
+        "nota":8.0,
+        "statu":"jogado",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy-4sayN6SzBqR8lBtibABu1ZzBrF5cPb12gvE5-cqKGnYU4OSGg2d5bm&s=10"
+    },
+    
+    {
+        "id":5,
+        "titulo":"Doctor house",
+        "categoria":"serie",
+        "plataforma":"Netflix",
+        "nota":8.5,
+        "statu":"assistido",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ofwXhylWFnCbZITC-1KEPiPfbQrj0fVrTho6Ve1K1Lx92oy8fhvLDoD8&s=10"
+    },
+
+    {
+        "id":6,
+        "titulo":"the good doctor",
+        "categoria":"serie",
+        "plataforma":"Netflix, prime video",
+        "nota":8.5,
+        "statu":"assistido",
+        "capa":"https://m.media-amazon.com/images/S/pv-target-images/7b9f1fe3dfde01cc80b041a497c0b9d33c61a1f890848a96f978a6187c35b6ab.jpg"
+    }
+
+
+]
